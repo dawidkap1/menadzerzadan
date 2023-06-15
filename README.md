@@ -19,7 +19,7 @@ Ta aplikacja to prosty menedżer zadań, który umożliwia dodawanie, edycję, u
 6. Uruchom aplikację przy pomocy komendy `npm start`.
 7. Uruchom serwer aplikacji przy pomocy komendy `node serwer.js`.
 
-> **Uwaga:** Upewnij się, że Twój XAMPP jest uruchomiony i działa poprawnie przed uruchomieniem aplikacji. Należy również upewnić się, że konfiguracja połączenia z bazą danych w pliku `serwer.js` jest zgodna z ustawieniami Twojego XAMPPa.
+**Uwaga:** Upewnij się, że Twój XAMPP jest uruchomiony i działa poprawnie przed uruchomieniem aplikacji. Należy również upewnić się, że konfiguracja połączenia z bazą danych w pliku `serwer.js` jest zgodna z ustawieniami Twojego XAMPPa.
 
 ## Endpointy API
 
@@ -38,4 +38,4 @@ Ta aplikacja to prosty menedżer zadań, który umożliwia dodawanie, edycję, u
 
 ## Autor
 
-Ta aplikacja została stworzona przez [Twój użytkownik/senior web developer].
+Ta aplikacja została stworzona przez Dawid Kapela.
